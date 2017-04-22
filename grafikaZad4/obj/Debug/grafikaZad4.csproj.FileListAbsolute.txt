@@ -1,0 +1,9 @@
+c:\users\zapio\documents\visual studio 2017\Projects\grafikaZad4\grafikaZad4\bin\Debug\grafikaZad4.exe.config
+c:\users\zapio\documents\visual studio 2017\Projects\grafikaZad4\grafikaZad4\bin\Debug\grafikaZad4.exe
+c:\users\zapio\documents\visual studio 2017\Projects\grafikaZad4\grafikaZad4\bin\Debug\grafikaZad4.pdb
+c:\users\zapio\documents\visual studio 2017\Projects\grafikaZad4\grafikaZad4\obj\Debug\grafikaZad4.csprojResolveAssemblyReference.cache
+c:\users\zapio\documents\visual studio 2017\Projects\grafikaZad4\grafikaZad4\obj\Debug\grafikaZad4.Form1.resources
+c:\users\zapio\documents\visual studio 2017\Projects\grafikaZad4\grafikaZad4\obj\Debug\grafikaZad4.Properties.Resources.resources
+c:\users\zapio\documents\visual studio 2017\Projects\grafikaZad4\grafikaZad4\obj\Debug\grafikaZad4.csproj.GenerateResource.Cache
+c:\users\zapio\documents\visual studio 2017\Projects\grafikaZad4\grafikaZad4\obj\Debug\grafikaZad4.exe
+c:\users\zapio\documents\visual studio 2017\Projects\grafikaZad4\grafikaZad4\obj\Debug\grafikaZad4.pdb
